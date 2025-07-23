@@ -14,7 +14,7 @@ struct ContentView: View {
                 .resizable()
                 .frame(width: 250, height: 350)
                 
-            Text("Hello, world!")
+            Text("Hi im Emmy!")
         }
         .padding()
     }
